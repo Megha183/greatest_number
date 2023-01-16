@@ -1,0 +1,20 @@
+
+.container{
+    border: 2px solid black;
+}
+button{
+    height: 40px;
+    width: 22%;
+}
+@media screen and (max-width:600px)  {
+   
+    h1{
+        font-size: 15px;
+     }
+    
+    
+     div{
+       width: 100%;
+    }
+   
+}
